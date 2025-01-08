@@ -15,7 +15,7 @@
   - **E-Commerce Website**: Developed using the MERN stack with features like user authentication, product catalog, and payment integration.
   - **Gurukul - Online Learning Platform**: A React-based platform enabling course management, assignment submissions, and real-time communication.
 
-- 🔒 Certified in **Google Cloud Cybersecurity** and **Ethical Hacking** with Silver Elite honors.
+- 🔒 Certified in **Google Cloud Cybersecurity** and **NPTEL Ethical Hacking** with Silver Elite honors.
 
 - 📫 How to reach me: **22it116@charusat.edu.in**
 
